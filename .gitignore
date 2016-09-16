@@ -1,4 +1,8 @@
+# elm-package generated files
 elm-stuff
 node_modules
 serve
 dist
+
+# elm-repl generated files
+repl-temp-*
